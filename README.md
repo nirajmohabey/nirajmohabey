@@ -17,12 +17,6 @@ I have worked on customer analytics, fraud detection, document search, and end-t
 📍 Worcester, MA, USA  
 📫 Open to USA opportunities
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=nirajmohabey&show_icons=true&theme=github_dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajmohabey&layout=compact&theme=github_dark&hide_border=true)
-
 ## 🌐 Socials
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-niraj-mohabeys-projects.vercel.app/)
